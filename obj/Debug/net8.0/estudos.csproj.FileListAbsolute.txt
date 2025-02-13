@@ -1,0 +1,14 @@
+C:\Users\kauan.rocha\source\repos\estudos\estudos\bin\Debug\net8.0\estudos.exe
+C:\Users\kauan.rocha\source\repos\estudos\estudos\bin\Debug\net8.0\estudos.deps.json
+C:\Users\kauan.rocha\source\repos\estudos\estudos\bin\Debug\net8.0\estudos.runtimeconfig.json
+C:\Users\kauan.rocha\source\repos\estudos\estudos\bin\Debug\net8.0\estudos.dll
+C:\Users\kauan.rocha\source\repos\estudos\estudos\bin\Debug\net8.0\estudos.pdb
+C:\Users\kauan.rocha\source\repos\estudos\estudos\obj\Debug\net8.0\estudos.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\kauan.rocha\source\repos\estudos\estudos\obj\Debug\net8.0\estudos.AssemblyInfoInputs.cache
+C:\Users\kauan.rocha\source\repos\estudos\estudos\obj\Debug\net8.0\estudos.AssemblyInfo.cs
+C:\Users\kauan.rocha\source\repos\estudos\estudos\obj\Debug\net8.0\estudos.csproj.CoreCompileInputs.cache
+C:\Users\kauan.rocha\source\repos\estudos\estudos\obj\Debug\net8.0\estudos.dll
+C:\Users\kauan.rocha\source\repos\estudos\estudos\obj\Debug\net8.0\refint\estudos.dll
+C:\Users\kauan.rocha\source\repos\estudos\estudos\obj\Debug\net8.0\estudos.pdb
+C:\Users\kauan.rocha\source\repos\estudos\estudos\obj\Debug\net8.0\estudos.genruntimeconfig.cache
+C:\Users\kauan.rocha\source\repos\estudos\estudos\obj\Debug\net8.0\ref\estudos.dll
