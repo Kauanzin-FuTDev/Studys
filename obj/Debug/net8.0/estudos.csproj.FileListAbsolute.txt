@@ -12,3 +12,4 @@ C:\Users\kauan.rocha\source\repos\estudos\estudos\obj\Debug\net8.0\refint\estudo
 C:\Users\kauan.rocha\source\repos\estudos\estudos\obj\Debug\net8.0\estudos.pdb
 C:\Users\kauan.rocha\source\repos\estudos\estudos\obj\Debug\net8.0\estudos.genruntimeconfig.cache
 C:\Users\kauan.rocha\source\repos\estudos\estudos\obj\Debug\net8.0\ref\estudos.dll
+C:\Users\kauan.rocha\source\repos\estudos\estudos\obj\Debug\net8.0\estudos.sourcelink.json
